@@ -1,9 +1,8 @@
-Hi I'm Subha
+Hi I'm Subha!
 You can reach me at the following
-- sparklez#0513 on discord
-- subhavee1@gmail.com
-- sub_math on aops
-
+- sparklez#2046 on discord
+- subhavee2@gmail.com
+- 
 Thanks
 
 <!---
