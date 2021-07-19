@@ -2,7 +2,6 @@ Hi I'm Subha!
 You can reach me at the following
 - sparklez#2046 on discord
 - subhavee2@gmail.com
-- 
 Thanks
 
 <!---
