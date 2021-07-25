@@ -1,7 +1,8 @@
-Hi I'm Subha!
-You can reach me at the following
-- sparklez#2046 on discord
-- subhavee2@gmail.com
+Hi I'm Subha! If you are looking for code and/or data for my paper, please check my repo.
+
+You can reach me at subhavee2@gmail.com if you need something.
+
+Thanks for stopping by! 
 
 
 <!---
