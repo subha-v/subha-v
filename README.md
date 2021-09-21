@@ -1,4 +1,4 @@
-Hi I'm Subha! If you are looking for code and/or data for my paper, please check my pinned repo.
+Hi I'm Subha! If you are looking for code and/or data for my paper, please check my pinned repo. Other code will be in their respective repos.
 
 You can reach me at subhavee2@gmail.com if you need something.
 
