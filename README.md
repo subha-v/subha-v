@@ -1,6 +1,6 @@
-Hi I'm Subha! If you are looking for code and/or data for my paper, please check my pinned repos. Other code will be in their respective repos.
+Hi I'm Subha! I am the founder of Linguistics Justice League, and you can learn more about the nonprofit organization at our website https://linguisticsjusticeleague.org/, or on our GitHub profile @linguisticsjusticeleague. I am actively working on a few projects there.
 
-Currently, I am actively working on developing EduLang, a bilingual childrens book app that translates childrens books from English into low-resource languages with the help of NeuralSpace. 
+If you are looking for code and/or data for my paper (https://www.jsr.org/hs/index.php/path/article/view/1977/977), please check my pinned repos. Other code will be in their respective repos.
 
 You can reach me at subhavee2@gmail.com if you need something.
 
