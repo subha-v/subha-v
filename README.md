@@ -2,8 +2,6 @@ Hi I'm Subha! I am the founder of Linguistics Justice League, and you can learn 
 
 If you are looking for code and/or data for my paper (https://www.jsr.org/hs/index.php/path/article/view/1977/977), please check my pinned repos. Other code will be in their respective repos.
 
-You can reach me at subhavee2@gmail.com if you need something.
-
 Thanks for stopping by! 
 
 
