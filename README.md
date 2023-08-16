@@ -1,6 +1,6 @@
-Hi I'm Subha! I am the founder of Linguistics Justice League, and you can learn more about the nonprofit organization at our website https://linguisticsjusticeleague.org/, or on our GitHub profile @linguisticsjusticeleague. I am actively working on a few projects there.
+Hi I'm Subha! I am the founder of Linguistics Justice League, and you can learn more about our nonprofit organization at our website https://linguisticsjusticeleague.org/, or on our GitHub profile @linguisticsjusticeleague. I am actively working on a few projects there.
 
-If you are looking for code and/or data for my paper (https://www.jsr.org/hs/index.php/path/article/view/1977/977), please check my pinned repos. Other code will be in their respective repos.
+The latest code/data for my papers can be found in my pinned repositories.
 
 Thanks for stopping by! 
 
