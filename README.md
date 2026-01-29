@@ -1,1 +1,1 @@
-
+Hi! I'm Subha. I'm a student at Stanford studying Computer Science. I'm interested broadly in NLP, reinforcement learning, and making GPUs fast(er)! I'm passionate about building performant systems that are accessible to all.
