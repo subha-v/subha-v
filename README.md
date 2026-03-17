@@ -2,8 +2,8 @@ Hi! I'm Subha. I'm a student at Stanford studying Computer Science. I'm interest
 
 Projects:
 - [Turning a 2018 Honda Accord Into a Self Driving Car (NVIDIA Edge AI Track 1st Place, Treehacks 2026)](https://github.com/bryandong24/treehacks2026)
-- [Predicting Canopy Tree Height from Satellite Imagery (CS229 Final Project)](https://github.com/bryandong24/TreeCanopyHeightModel)
-- RL Post Training for Alpamayo R1's 10B Param Model (CS234 Final Project, Coming Soon)
+- [Predicting Canopy Tree Height from Satellite Imagery (CS229 - Machine Learning Final Project)](https://github.com/bryandong24/TreeCanopyHeightModel)
+- [A Systematic Study of GRPO Post-Training for Reasoning-Action Consistency in Autonomous Driving](https://github.com/bryandong24/cs234project) (CS234 - Reinforcement Learning Final Project)
 - [Performant B200 Matmul Kernel using PTX](https://github.com/subha-v/cudaPractice/blob/main/b200/b200_matmul.cu)
 - [Open-Source Image Editing Platform for Cultural Image Transcreation (EMNLP 2025)](https://github.com/machine-transcreation/HILITE)
 - [Partial Tensorization Algorithm to Compress Transformer Layers in VLMs (IEEE 2024)](https://github.com/subha-v/Tensor-Decomposition-Code)
