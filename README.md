@@ -1,4 +1,4 @@
-Hi! I'm Subha. I'm a student at Stanford studying Computer Science and Math. I'm interested broadly in NLP, reinforcement learning, and sysML. I'm currently working on distributed HipKittens with AMD/Hazy Research.
+Hi! I'm Subha. I'm a student at Stanford studying Computer Science and Math. I'm interested broadly in NLP, reinforcement learning, and sysML. I'm currently working at Hazy Research on various Kittens projects.
 
 Projects:
 - [Turning a 2018 Honda Accord Into a Self Driving Car (1st Place/ NVIDIA Edge AI Track @ Treehacks 2026)](https://github.com/bryandong24/treehacks2026)
